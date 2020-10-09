@@ -1,0 +1,33 @@
+name: Fetch mortgage rates from Wells Fargo and store output as text
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '10 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install dependencies 
+      run: sudo apt-get install -y html2text
+    - name: Store the latest Wells Fargo mortgage rates page 
+      run: |-
+        curl https://www.wellsfargo.com/mortgage/rates/ | html2text > all-rates.txt
+    - name: Store the latest Wells Fargo Mortgage Rate page for 30 year fixed rate purchase conforming loan
+      run: |-
+        curl https://www.wellsfargo.com/mortgage/rates/purchase-assumptions?prod=1 | html2text > 30yr-conforming-fixed-purchase.txt
+    - name: Store the latest Wells Fargo Mortgage Rate page for 15 year fixed rate purchase conforming loan
+      run: |-
+        curl https://www.wellsfargo.com/mortgage/rates/purchase-assumptions?prod=4 | html2text > 15yr-conforming-fixed-purchase.txt
+    - name: Commit and push if it new rates are observed
+      run: |-
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add --all
+        timestamp=$(TZ=America/New_York date)
+        git commit -m "Latest change: ${timestamp}" || exit 0
+        git push
+        
