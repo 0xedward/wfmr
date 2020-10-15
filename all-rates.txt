@@ -187,6 +187,10 @@ here.
 
 
 
+*****   Apply online *****
+Our simplified mortgage application will walk you through each step.
+
+Apply_Now
 *****  Get Prequalified *****
 Have us contact you to see how much you may be able to borrow.
 
@@ -211,11 +215,14 @@ information. Please note we offer additional home loan options not displayed
 here.
 
 
+*****   Apply online *****
+Our simplified mortgage application will walk you through each step.
 
-*****  Explore your options *****
-Have us contact you to discuss your refinancing goals.
+Apply_Now
+***** Explore your options *****
+Have us contact you to discuss your refinancing
 
-Get_started
+Get_Started
 
 ***** Talk to a consultant *****
     * Call 1-877-937-9357
