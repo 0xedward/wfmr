@@ -162,31 +162,31 @@ Fin de ventana emergente
 
 
 Today's purchase rates are based on the purchase of a single-family, primary
-residence. This rate assumes a credit score of 740, includes 0.375 in discount
-points, which is an upfront $750.00 included in closing costs below, and
+residence. This rate assumes a credit score of 740, includes 0.125 in discount
+points, which is an upfront $250.00 included in closing costs below, and
 assumes the loan will have an escrow account. Contact a home mortgage
 consultant to learn more.
 ***** Conforming_Loan *****
 15-Year Fixed Rate
-Interest_Rate                                                       2.125%
-APR                                                                 2.325%
+Interest_Rate                                                       2.25%
+APR                                                                 2.416%
 Loan Amount                                                         200000
 Down Payment                                                        25.0%
 Term                                                                15 yrs
-Monthly Principal & Interest Payment                                1299
+Monthly Principal & Interest Payment                                1310
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      5462
+Closing Costs (includes the cost for required discount points)      4978
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 11/09/2020 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 11/09/2020 11:51 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
 of this loan example.
 ***** Projected Payments *****
 Payment Calculation                                                 Years 1-15
-Principal & Interest                                                $1,298.57
+Principal & Interest                                                $1,310.17
 Mortgage Insurance                                                  + 0
-Estimated Total Monthly Payment                                     $1,298.57
+Estimated Total Monthly Payment                                     $1,310.17
 (Excludes taxes and hazard insurance; total payment will be higher)
 **** Important disclosures, assumptions and APR Information ****
 *** General Disclosures ***
