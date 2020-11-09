@@ -168,25 +168,25 @@ assumes the loan will have an escrow account. Contact a home mortgage
 consultant to learn more.
 ***** Conforming_Loan *****
 30-Year Fixed Rate
-Interest_Rate                                                       2.5%
-APR                                                                 2.609%
+Interest_Rate                                                       2.625%
+APR                                                                 2.735%
 Loan Amount                                                         200000
 Down Payment                                                        25.0%
 Term                                                                30 yrs
-Monthly Principal & Interest Payment                                790
+Monthly Principal & Interest Payment                                803
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      5552
+Closing Costs (includes the cost for required discount points)      5528
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 11/06/2020 10:20 AM Eastern Standard Time and
+Rates, terms, and fees as of 11/09/2020 10:15 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
 of this loan example.
 ***** Projected Payments *****
 Payment Calculation                                                 Years 1-30
-Principal & Interest                                                $790.25
+Principal & Interest                                                $803.31
 Mortgage Insurance                                                  + 0
-Estimated Total Monthly Payment                                     $790.25
+Estimated Total Monthly Payment                                     $803.31
 (Excludes taxes and hazard insurance; total payment will be higher)
 **** Important disclosures, assumptions and APR Information ****
 *** General Disclosures ***
