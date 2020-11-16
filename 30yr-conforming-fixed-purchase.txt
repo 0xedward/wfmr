@@ -175,9 +175,9 @@ Down Payment                                                        25.0%
 Term                                                                30 yrs
 Monthly Principal & Interest Payment                                803
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      5456
+Closing Costs (includes the cost for required discount points)      5427
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 11/14/2020 03:02 PM Eastern Standard Time and
+Rates, terms, and fees as of 11/16/2020 10:16 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
