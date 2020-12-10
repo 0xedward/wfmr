@@ -163,22 +163,22 @@ Fin de ventana emergente
 
 
 Today's purchase rates are based on the purchase of a single-family, primary
-residence. This rate assumes a credit score of 740, includes 0.375 in discount
-points, which is an upfront $750.00 included in closing costs below, and
+residence. This rate assumes a credit score of 740, includes 0.250 in discount
+points, which is an upfront $500.00 included in closing costs below, and
 assumes the loan will have an escrow account. Contact a home mortgage
 consultant to learn more.
 ***** Conforming_Loan *****
 30-Year Fixed Rate
 Interest_Rate                                                       2.625%
-APR                                                                 2.734%
+APR                                                                 2.724%
 Loan Amount                                                         200000
 Down Payment                                                        25.0%
 Term                                                                30 yrs
 Monthly Principal & Interest Payment                                803
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      5459
+Closing Costs (includes the cost for required discount points)      5209
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 12/10/2020 02:34 AM Eastern Standard Time and
+Rates, terms, and fees as of 12/10/2020 10:15 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
