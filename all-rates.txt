@@ -15,6 +15,7 @@
 
 
 
+
 Skip_to_content
 [Wells_Fargo_Home_Page]
     * [Secure]_Sign_On
@@ -181,7 +182,7 @@ Jumbo_Loans Amounts that exceed conforming loan limits
 15-Year_Fixed-Rate_Jumbo 2.625%        2.704%
 7/6-Month_ARM_Jumbo      2.25%         2.644%
 10/6-Month_ARM_Jumbo     2.375%        2.638%
-Rates, terms, and fees as of 12/09/2020 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 12/10/2020 02:34 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -212,7 +213,7 @@ Conforming and Government_Loans
 15-Year_Fixed_Rate 2.5%          2.665%
 7/6-Month_ARM      2.5%          2.804%
 5/6-Month_ARM      2.5%          2.836%
-Rates, terms, and fees as of 12/09/2020 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 12/10/2020 02:34 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed

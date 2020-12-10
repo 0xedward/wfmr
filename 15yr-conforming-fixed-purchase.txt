@@ -13,6 +13,7 @@
 
 
 
+
 Skip_to_content
 [Wells_Fargo_Home_Page]
     * [Secure]_Sign_On
@@ -177,7 +178,7 @@ Monthly Principal & Interest Payment                                1299
 (Excludes taxes and hazard insurance; total payment will be higher)
 Closing Costs (includes the cost for required discount points)      5152
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 12/09/2020 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 12/10/2020 02:34 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
