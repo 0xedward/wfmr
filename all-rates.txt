@@ -171,18 +171,18 @@ tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       2.5%          2.609%
-30-Year_Fixed-Rate_VA    2.375%        2.611%
-20-Year_Fixed_Rate       2.5%          2.614%
-15-Year_Fixed_Rate       2.0%          2.146%
-7/6-Month_ARM            2.0%          2.57%
+30-Year_Fixed_Rate       2.5%          2.618%
+30-Year_Fixed-Rate_VA    2.375%        2.621%
+20-Year_Fixed_Rate       2.5%          2.628%
+15-Year_Fixed_Rate       2.0%          2.164%
+7/6-Month_ARM            2.0%          2.58%
 5/6-Month_ARM            2.0%          2.658%
 Jumbo_Loans Amounts that exceed conforming loan limits
 30-Year_Fixed-Rate_Jumbo 2.875%        2.919%
 15-Year_Fixed-Rate_Jumbo 2.625%        2.705%
-7/6-Month_ARM_Jumbo      2.25%         2.645%
+7/6-Month_ARM_Jumbo      2.25%         2.646%
 10/6-Month_ARM_Jumbo     2.375%        2.639%
-Rates, terms, and fees as of 12/24/2020 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 12/28/2020 10:15 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -208,12 +208,12 @@ tab-refinancerates">
          Refinance Rates table
 Product            Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate 2.75%         2.85%
-20-Year_Fixed_Rate 2.75%         2.851%
+30-Year_Fixed_Rate 2.875%        2.946%
+20-Year_Fixed_Rate 2.75%         2.865%
 15-Year_Fixed_Rate 2.25%         2.433%
-7/6-Month_ARM      2.25%         2.672%
+7/6-Month_ARM      2.25%         2.682%
 5/6-Month_ARM      2.125%        2.719%
-Rates, terms, and fees as of 12/24/2020 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 12/28/2020 10:15 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
