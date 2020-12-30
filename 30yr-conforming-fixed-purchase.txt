@@ -170,15 +170,15 @@ consultant to learn more.
 ***** Conforming_Loan *****
 30-Year Fixed Rate
 Interest_Rate                                                       2.5%
-APR                                                                 2.609%
+APR                                                                 2.608%
 Loan Amount                                                         200000
 Down Payment                                                        25.0%
 Term                                                                30 yrs
 Monthly Principal & Interest Payment                                790
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      5185
+Closing Costs (includes the cost for required discount points)      5582
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 12/29/2020 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 12/30/2020 10:15 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
