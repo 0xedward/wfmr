@@ -170,15 +170,15 @@ learn more.
 ***** Conforming_Loan *****
 15-Year Fixed Rate
 Interest_Rate                                                       2.0%
-APR                                                                 2.145%
+APR                                                                 2.127%
 Loan Amount                                                         200000
 Down Payment                                                        25.0%
 Term                                                                15 yrs
 Monthly Principal & Interest Payment                                1287
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      4747
+Closing Costs (includes the cost for required discount points)      4453
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 12/31/2020 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 1/04/2021 10:15 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
