@@ -171,10 +171,10 @@ tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       2.625%        2.744%
-30-Year_Fixed-Rate_VA    2.625%        2.864%
-20-Year_Fixed_Rate       2.625%        2.739%
-15-Year_Fixed_Rate       2.125%        2.288%
+30-Year_Fixed_Rate       2.75%         2.84%
+30-Year_Fixed-Rate_VA    2.625%        2.874%
+20-Year_Fixed_Rate       2.625%        2.766%
+15-Year_Fixed_Rate       2.125%        2.306%
 7/6-Month_ARM            2.0%          2.597%
 5/6-Month_ARM            2.0%          2.665%
 Jumbo_Loans Amounts that exceed conforming loan limits
@@ -182,7 +182,7 @@ Jumbo_Loans Amounts that exceed conforming loan limits
 15-Year_Fixed-Rate_Jumbo 2.75%         2.83%
 7/6-Month_ARM_Jumbo      2.375%        2.701%
 10/6-Month_ARM_Jumbo     2.5%          2.713%
-Rates, terms, and fees as of 1/11/2021 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 1/11/2021 04:51 PM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -208,12 +208,12 @@ tab-refinancerates">
          Refinance Rates table
 Product            Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate 3.0%          3.082%
-20-Year_Fixed_Rate 2.875%        2.976%
-15-Year_Fixed_Rate 2.375%        2.522%
+30-Year_Fixed_Rate 3.0%          3.091%
+20-Year_Fixed_Rate 2.875%        2.99%
+15-Year_Fixed_Rate 2.375%        2.54%
 7/6-Month_ARM      2.375%        2.728%
 5/6-Month_ARM      2.25%         2.75%
-Rates, terms, and fees as of 1/11/2021 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 1/11/2021 04:51 PM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed

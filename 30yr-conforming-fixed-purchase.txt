@@ -163,31 +163,31 @@ Fin de ventana emergente
 
 
 Today's purchase rates are based on the purchase of a single-family, primary
-residence. This rate assumes a credit score of 740, includes 0.500 in discount
-points, which is an upfront $1,000.00 included in closing costs below, and
+residence. This rate assumes a credit score of 740, includes 0.125 in discount
+points, which is an upfront $250.00 included in closing costs below, and
 assumes the loan will have an escrow account. Contact a home mortgage
 consultant to learn more.
 ***** Conforming_Loan *****
 30-Year Fixed Rate
-Interest_Rate                                                       2.625%
-APR                                                                 2.744%
+Interest_Rate                                                       2.75%
+APR                                                                 2.84%
 Loan Amount                                                         200000
 Down Payment                                                        25.0%
 Term                                                                30 yrs
-Monthly Principal & Interest Payment                                803
+Monthly Principal & Interest Payment                                816
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      5695
+Closing Costs (includes the cost for required discount points)      4959
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 1/11/2021 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 1/11/2021 04:51 PM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
 of this loan example.
 ***** Projected Payments *****
 Payment Calculation                                                 Years 1-30
-Principal & Interest                                                $803.31
+Principal & Interest                                                $816.49
 Mortgage Insurance                                                  + 0
-Estimated Total Monthly Payment                                     $803.31
+Estimated Total Monthly Payment                                     $816.49
 (Excludes taxes and hazard insurance; total payment will be higher)
 **** Important disclosures, assumptions and APR Information ****
 *** General Disclosures ***
