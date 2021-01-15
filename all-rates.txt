@@ -175,14 +175,14 @@ Conforming and Government_Loans
 30-Year_Fixed-Rate_VA    2.5%          2.747%
 20-Year_Fixed_Rate       2.625%        2.753%
 15-Year_Fixed_Rate       2.125%        2.306%
-7/6-Month_ARM            2.0%          2.597%
-5/6-Month_ARM            2.0%          2.666%
+7/6-Month_ARM            2.0%          2.588%
+5/6-Month_ARM            2.0%          2.656%
 Jumbo_Loans Amounts that exceed conforming loan limits
 30-Year_Fixed-Rate_Jumbo 2.875%        2.928%
 15-Year_Fixed-Rate_Jumbo 2.625%        2.722%
 7/6-Month_ARM_Jumbo      2.25%         2.654%
 10/6-Month_ARM_Jumbo     2.5%          2.694%
-Rates, terms, and fees as of 1/14/2021 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 1/15/2021 10:15 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -208,12 +208,12 @@ tab-refinancerates">
          Refinance Rates table
 Product            Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate 3.0%          3.092%
+30-Year_Fixed_Rate 3.0%          3.082%
 20-Year_Fixed_Rate 2.875%        2.99%
 15-Year_Fixed_Rate 2.375%        2.54%
-7/6-Month_ARM      2.375%        2.728%
-5/6-Month_ARM      2.25%         2.751%
-Rates, terms, and fees as of 1/14/2021 10:15 AM Eastern Standard Time and
+7/6-Month_ARM      2.25%         2.691%
+5/6-Month_ARM      2.25%         2.741%
+Rates, terms, and fees as of 1/15/2021 10:15 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
