@@ -176,9 +176,9 @@ Down Payment                                                        25.0%
 Term                                                                30 yrs
 Monthly Principal & Interest Payment                                803
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      5479
+Closing Costs (includes the cost for required discount points)      5451
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 1/26/2021 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 1/27/2021 02:28 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
@@ -300,12 +300,14 @@ charges or fees. For home equity lines, the APR is just the interest rate.
 The cost a customer pays to a lender for borrowing funds over a period of time
 expressed as a percentage rate of the loan amount.
 
-    * About_Wells_Fargo
-    * Careers
     * Privacy,_Cookies,_Security_&_Legal
+    * Notice_of_Data_Collection
+    * General_Terms_of_Use
+    * Ad_Choices
     * Report_Fraud
     * Sitemap
+    * About_Wells_Fargo
+    * Careers
+    * Diversity_and_Accessibility
     * Home
-    * Diversity_&_Accessibility
-    * Ad_Choices
 © 1999 - 2021 Wells Fargo. All rights reserved. NMLSR ID 399801
