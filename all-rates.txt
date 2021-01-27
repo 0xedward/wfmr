@@ -171,18 +171,18 @@ tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       2.625%        2.744%
-30-Year_Fixed-Rate_VA    2.25%         2.495%
-20-Year_Fixed_Rate       2.5%          2.669%
-15-Year_Fixed_Rate       2.125%        2.307%
-7/6-Month_ARM            2.0%          2.59%
-5/6-Month_ARM            2.0%          2.658%
+30-Year_Fixed_Rate       2.625%        2.725%
+30-Year_Fixed-Rate_VA    2.25%         2.475%
+20-Year_Fixed_Rate       2.5%          2.628%
+15-Year_Fixed_Rate       2.125%        2.272%
+7/6-Month_ARM            2.0%          2.571%
+5/6-Month_ARM            2.0%          2.649%
 Jumbo_Loans Amounts that exceed conforming loan limits
-30-Year_Fixed-Rate_Jumbo 2.875%        2.928%
-15-Year_Fixed-Rate_Jumbo 2.625%        2.723%
-7/6-Month_ARM_Jumbo      2.25%         2.655%
-10/6-Month_ARM_Jumbo     2.5%          2.694%
-Rates, terms, and fees as of 1/27/2021 02:28 AM Eastern Standard Time and
+30-Year_Fixed-Rate_Jumbo 2.875%        2.909%
+15-Year_Fixed-Rate_Jumbo 2.625%        2.705%
+7/6-Month_ARM_Jumbo      2.25%         2.646%
+10/6-Month_ARM_Jumbo     2.375%        2.639%
+Rates, terms, and fees as of 1/27/2021 10:15 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -208,17 +208,17 @@ tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       3.0%          3.082%
-20-Year_Fixed_Rate       2.75%         2.893%
-15-Year_Fixed_Rate       2.375%        2.541%
-7/6-Month_ARM            2.25%         2.692%
+30-Year_Fixed_Rate       2.875%        2.966%
+20-Year_Fixed_Rate       2.75%         2.865%
+15-Year_Fixed_Rate       2.375%        2.523%
+7/6-Month_ARM            2.25%         2.673%
 5/6-Month_ARM            2.125%        2.719%
 Jumbo_Loans Amounts that exceed conforming loan limits
-30-Year_Fixed-Rate_Jumbo 3.125%        3.164%
-15-Year_Fixed-Rate_Jumbo 2.875%        2.946%
-7/6-Month_ARM_Jumbo      2.75%         2.857%
-10/6-Month_ARM_Jumbo     2.875%        2.923%
-Rates, terms, and fees as of 1/27/2021 02:28 AM Eastern Standard Time and
+30-Year_Fixed-Rate_Jumbo 3.0%          3.058%
+15-Year_Fixed-Rate_Jumbo 2.75%         2.857%
+7/6-Month_ARM_Jumbo      2.625%        2.819%
+10/6-Month_ARM_Jumbo     2.875%        2.913%
+Rates, terms, and fees as of 1/27/2021 10:15 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
