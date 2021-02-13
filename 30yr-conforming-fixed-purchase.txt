@@ -65,7 +65,6 @@ JavaScript on your browser and refresh the page. Learn_More
 ***** Loans and Credit *****
 ***** Accounts and Services *****
     * Mortgage_Loans
-    * Home_Equity_Lines
     * Personal_Loans
  
     * Student_Loans
@@ -77,7 +76,6 @@ JavaScript on your browser and refresh the page. Learn_More
     * Security_Center
 ***** Popular Links *****
     * Mortgage_Rates
-    * Home_Equity_Rates
     * Get_Help_with_Payment_Challenges
     * Finish_Application/Check_Status
     * Student_Loan_Discounts
@@ -176,9 +174,9 @@ Down Payment                                                        25.0%
 Term                                                                30 yrs
 Monthly Principal & Interest Payment                                803
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      5167
+Closing Costs (includes the cost for required discount points)      5153
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 2/12/2021 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 2/13/2021 01:29 PM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
