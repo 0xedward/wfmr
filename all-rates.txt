@@ -169,16 +169,16 @@ Product                  Interest_Rate APR
 Conforming and Government_Loans
 30-Year_Fixed_Rate       3.125%        3.238%
 30-Year_Fixed-Rate_VA    2.625%        2.874%
-20-Year_Fixed_Rate       2.875%        3.019%
-15-Year_Fixed_Rate       2.375%        2.595%
+20-Year_Fixed_Rate       2.875%        3.033%
+15-Year_Fixed_Rate       2.375%        2.577%
 7/6-Month_ARM            2.25%         2.632%
-5/6-Month_ARM            2.0%          2.574%
+5/6-Month_ARM            2.0%          2.584%
 Jumbo_Loans Amounts that exceed conforming loan limits
 30-Year_Fixed-Rate_Jumbo 3.0%          3.064%
 15-Year_Fixed-Rate_Jumbo 2.875%        2.955%
 7/6-Month_ARM_Jumbo      2.5%          2.689%
 10/6-Month_ARM_Jumbo     2.625%        2.737%
-Rates, terms, and fees as of 4/08/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 4/09/2021 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -205,7 +205,7 @@ tab-refinancerates">
 Product                  Interest_Rate APR
 Conforming and Government_Loans
 30-Year_Fixed_Rate       3.375%        3.459%
-20-Year_Fixed_Rate       3.125%        3.242%
+20-Year_Fixed_Rate       3.125%        3.256%
 15-Year_Fixed_Rate       2.625%        2.792%
 7/6-Month_ARM            2.5%          2.736%
 5/6-Month_ARM            2.25%         2.669%
@@ -214,7 +214,7 @@ Jumbo_Loans Amounts that exceed conforming loan limits
 15-Year_Fixed-Rate_Jumbo 3.125%        3.196%
 7/6-Month_ARM_Jumbo      3.0%          2.903%
 10/6-Month_ARM_Jumbo     3.125%        3.026%
-Rates, terms, and fees as of 4/08/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 4/09/2021 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
