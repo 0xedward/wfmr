@@ -167,10 +167,10 @@ tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       3.0%          3.113%
-30-Year_Fixed-Rate_VA    2.5%          2.728%
+30-Year_Fixed_Rate       3.0%          3.123%
+30-Year_Fixed-Rate_VA    2.5%          2.738%
 20-Year_Fixed_Rate       2.75%         2.922%
-15-Year_Fixed_Rate       2.25%         2.47%
+15-Year_Fixed_Rate       2.375%        2.524%
 7/6-Month_ARM            2.25%         2.624%
 5/6-Month_ARM            2.0%          2.577%
 Jumbo_Loans Amounts that exceed conforming loan limits
@@ -178,7 +178,7 @@ Jumbo_Loans Amounts that exceed conforming loan limits
 15-Year_Fixed-Rate_Jumbo 2.75%         2.849%
 7/6-Month_ARM_Jumbo      2.375%        2.643%
 10/6-Month_ARM_Jumbo     2.625%        2.719%
-Rates, terms, and fees as of 4/26/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 4/27/2021 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -204,7 +204,7 @@ tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       3.25%         3.334%
+30-Year_Fixed_Rate       3.25%         3.344%
 20-Year_Fixed_Rate       3.0%          3.145%
 15-Year_Fixed_Rate       2.5%          2.686%
 7/6-Month_ARM            2.5%          2.728%
@@ -214,7 +214,7 @@ Jumbo_Loans Amounts that exceed conforming loan limits
 15-Year_Fixed-Rate_Jumbo 3.0%          3.09%
 7/6-Month_ARM_Jumbo      2.875%        2.855%
 10/6-Month_ARM_Jumbo     3.0%          2.959%
-Rates, terms, and fees as of 4/26/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 4/27/2021 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
