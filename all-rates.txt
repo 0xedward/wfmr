@@ -122,11 +122,8 @@ JavaScript on your browser and refresh the page. Learn_More
     * Contact_The_Private_Bank
     * Contact_Wells_Fargo_Advisors
 ***** Rewards and Benefits *****
-***** Go Far® Rewards *****
-    * Explore_Rewards
-    * Earn_Rewards
-    * Use_Rewards
-    * Share_Rewards
+***** Explore Rewards *****
+    * Go_Far®_Rewards
 ***** Relationship Program *****
     * Customer_Relationship_Overview
 ***** Your Financial Goals *****
@@ -168,15 +165,15 @@ Conforming and Government_Loans
 30-Year_Fixed_Rate       2.875%        2.996%
 30-Year_Fixed-Rate_VA    2.25%         2.494%
 20-Year_Fixed_Rate       2.75%         2.88%
-15-Year_Fixed_Rate       2.125%        2.343%
+15-Year_Fixed_Rate       2.125%        2.344%
 7/6-Month_ARM            2.375%        2.67%
-5/6-Month_ARM            2.0%          2.584%
+5/6-Month_ARM            2.0%          2.585%
 Jumbo_Loans Amounts that exceed conforming loan limits
 30-Year_Fixed-Rate_Jumbo 2.875%        2.919%
 15-Year_Fixed-Rate_Jumbo 2.625%        2.74%
 7/6-Month_ARM_Jumbo      2.375%        2.623%
 10/6-Month_ARM_Jumbo     2.5%          2.653%
-Rates, terms, and fees as of 8/13/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 8/14/2021 12:44 PM Eastern Daylight Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -213,7 +210,7 @@ Jumbo_Loans Amounts that exceed conforming loan limits
 15-Year_Fixed-Rate_Jumbo 2.875%        2.951%
 7/6-Month_ARM_Jumbo      2.75%         2.791%
 10/6-Month_ARM_Jumbo     2.875%        2.877%
-Rates, terms, and fees as of 8/13/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 8/14/2021 12:44 PM Eastern Daylight Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
