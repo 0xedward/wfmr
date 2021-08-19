@@ -162,10 +162,10 @@ tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       2.875%        2.987%
-30-Year_Fixed-Rate_VA    2.25%         2.484%
-20-Year_Fixed_Rate       2.75%         2.866%
-15-Year_Fixed_Rate       2.125%        2.344%
+30-Year_Fixed_Rate       2.875%        2.977%
+30-Year_Fixed-Rate_VA    2.25%         2.475%
+20-Year_Fixed_Rate       2.625%        2.768%
+15-Year_Fixed_Rate       2.125%        2.326%
 7/6-Month_ARM            2.25%         2.633%
 5/6-Month_ARM            2.0%          2.576%
 Jumbo_Loans Amounts that exceed conforming loan limits
@@ -173,7 +173,7 @@ Jumbo_Loans Amounts that exceed conforming loan limits
 15-Year_Fixed-Rate_Jumbo 2.5%          2.615%
 7/6-Month_ARM_Jumbo      2.25%         2.567%
 10/6-Month_ARM_Jumbo     2.375%        2.579%
-Rates, terms, and fees as of 8/18/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 8/19/2021 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -200,9 +200,9 @@ tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       3.125%        3.2%
-20-Year_Fixed_Rate       2.875%        3.022%
-15-Year_Fixed_Rate       2.375%        2.527%
+30-Year_Fixed_Rate       3.0%          3.104%
+20-Year_Fixed_Rate       2.75%         2.91%
+15-Year_Fixed_Rate       2.25%         2.455%
 7/6-Month_ARM            2.5%          2.739%
 5/6-Month_ARM            2.125%        2.648%
 Jumbo_Loans Amounts that exceed conforming loan limits
@@ -210,7 +210,7 @@ Jumbo_Loans Amounts that exceed conforming loan limits
 15-Year_Fixed-Rate_Jumbo 2.75%         2.826%
 7/6-Month_ARM_Jumbo      2.625%        2.734%
 10/6-Month_ARM_Jumbo     2.75%         2.801%
-Rates, terms, and fees as of 8/18/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 8/19/2021 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
