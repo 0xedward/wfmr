@@ -14,7 +14,6 @@
 
 
 
-
 Skip_to_content
 [Wells_Fargo_Home_Page]
     * [Secure]_Sign_On
@@ -151,11 +150,11 @@ Fin de ventana emergente
     * Current Mortgage and Refinance Rates
 ****** Current Mortgage and Refinance Rates ******
                     Print
+**** The mortgage rates below are sample rates based on assumptions. Use our
+calculator to see estimated rates today for mortgage and refinance loans based
+on your specific needs.Get_Your_Custom_Rate ****
 Interest rates for mortgages below may include up to 0.5 discount points as an
 upfront cost to borrowers. Rates for refinancing assume no cash out.
-These are sample rates based on assumptions. Use our calculator to see
-estimated rates today for mortgage and refinance loans based on your specific
-needs.
     * Purchase_Rates
     * Refinance_Rates
 tab-purchaserates">
@@ -172,25 +171,7 @@ Rates, terms, and fees as of 8/20/2021 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
-here.
-
-
-
-*****   Apply online *****
-Our simplified mortgage application will walk you through each step.
-
-Apply_Now
-
-*****   Get Prequalified *****
-Have us contact you to see how much you may be able to borrow.
-
-Get_Started
-
-***** Talk to a consultant *****
-    * Call 1-866-290-0462
-    * Get_a_call_back
-    * Find_a_local_consultant
- 
+here. 
 tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
@@ -205,51 +186,35 @@ subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
 here.
-
-
- 
-*****   Apply online *****
-Our simplified mortgage application will walk you through each step.
-
-Apply_Now
- 
-*****   Explore your options *****
-Have us contact you to discuss your refinancing
-
-Get_Started
- 
-***** Talk to a consultant *****
-    * Call 1-866-290-0462
-    * Get_a_call_back
-    * Find_a_local_consultant
-   
-***** Buying a house? *****
-Estimate how much you may be able to borrow
-Get_Prequalified
+*****  See more products  *****
+ Looking for interest rates on mortgage loans not listed above? Check_mortgage
+rates
+****
+Apply_Now   Contact_UsCall 1-877-937-3357 or find a mortgage consultant in_your
+area ****
+***** Still have questions? *****
+**** Quick Help ****
+    * Finish_a_saved_application
+    * Check_application_status
+    * Sign_on_to_manage_your_account
+    * Home_mortgage_faqs
+    * Customer_help_and_payment_options
+    * Voice_a_concern
+**** Call Us ****
+*** New Loans ***
+1-866-290-0462
+Mon – Fri: 7 am – 8 pm
+Sat: 8 am – 6 pm  
+Central Time
+*** Existing Loans ***
+1-800-357-6675 
+Mon – Fri: 6 am – 10 pm 
+Sat: 8 am – 2 pm 
+Central Time
+Marque 9 para recibir atención en español.
 Equal Housing Lender
 Wells Fargo Home Mortgage is a division of Wells Fargo Bank, N.A.
 LRC-0721
-***** Calculate interest rates on mortgage loans *****
-Estimate your monthly payments, closing costs, APR and mortgage interest rate
-today.
-Mortgage_calculator
-***** Still have questions? *****
-**** Call Us ****
-Mortgage financing 
-1-866-290-0462
-Mon – Fri: 7 am – 8 pm 
-Sat: 8 am – 6 pm 
-Central Time
-Mortgage customer service
-1-800-357-6675
-Mon – Fri: 6 am – 10 pm
-Sat: 8 am – 2 pm 
-Central Time
-**** Find Local Consultant ****
-Get local home financing help.
-
-Find_a_local_consultant
-Give_feedback
 ***** Annual Percentage Rate (APR) *****
 The cost to borrow money expressed as a yearly percentage. For mortgage loans,
 excluding home equity lines of credit, it includes the interest rate plus other
