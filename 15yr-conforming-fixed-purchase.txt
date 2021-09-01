@@ -161,15 +161,15 @@ consultant to learn more.
 ***** Jumbo_Loan *****
 30-Year Fixed-Rate Jumbo
 Interest_Rate                                                       2.75%
-APR                                                                 2.794%
+APR                                                                 2.793%
 Loan Amount                                                         750000
 Down Payment                                                        25.0%
 Term                                                                30 yrs
 Monthly Principal & Interest Payment                                3062
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      9756
+Closing Costs (includes the cost for required discount points)      11338
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 8/31/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 9/01/2021 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
