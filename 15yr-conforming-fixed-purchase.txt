@@ -59,7 +59,6 @@ JavaScript on your browser and refresh the page. Learn_More
     * Overdraft_Services
     * Get_Help_with_Payment_Challenges
     * Open_a_Checking_Account
-    * Apply_for_an_Account_or_Service
 
 ***** Loans and Credit *****
 ***** Accounts and Services *****
@@ -101,7 +100,6 @@ JavaScript on your browser and refresh the page. Learn_More
     * Open_a_WellsTrade®_Account
     * Open_an_Intuitive_Investor®_Account
     * My_Retirement_Plan
-    * Employer_Plan_401(k)_Sign_On
 ***** Wealth Management *****
 ***** Wealth Services *****
     * The_Private_Bank
@@ -121,16 +119,14 @@ JavaScript on your browser and refresh the page. Learn_More
     * Contact_Wells_Fargo_Advisors
 ***** Rewards and Benefits *****
 ***** Explore Rewards *****
-    * Go_Far®_Rewards
-***** Relationship Program *****
-    * Customer_Relationship_Overview
+    * Wells_Fargo_Rewards®
 ***** Your Financial Goals *****
     * Banking_Made_Easy
     * Borrowing_and_Credit
     * Security_Center
 ***** Popular Links *****
-    * Sign_On_to_Go_Far_Rewards
-    * Go_Far_Rewards_FAQs
+    * Sign_On_to_Rewards
+    * Rewards_FAQs
     * Credit_Cards
 
 Navegó a una página que no está disponible en español en este momento.
@@ -167,9 +163,9 @@ Down Payment                                                        25.0%
 Term                                                                30 yrs
 Monthly Principal & Interest Payment                                3213
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      10350
+Closing Costs (includes the cost for required discount points)      10286
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 10/22/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 10/23/2021 12:17 PM Eastern Daylight Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life

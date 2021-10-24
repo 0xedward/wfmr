@@ -60,7 +60,6 @@ JavaScript on your browser and refresh the page. Learn_More
     * Overdraft_Services
     * Get_Help_with_Payment_Challenges
     * Open_a_Checking_Account
-    * Apply_for_an_Account_or_Service
 
 ***** Loans and Credit *****
 ***** Accounts and Services *****
@@ -102,7 +101,6 @@ JavaScript on your browser and refresh the page. Learn_More
     * Open_a_WellsTrade®_Account
     * Open_an_Intuitive_Investor®_Account
     * My_Retirement_Plan
-    * Employer_Plan_401(k)_Sign_On
 ***** Wealth Management *****
 ***** Wealth Services *****
     * The_Private_Bank
@@ -122,16 +120,14 @@ JavaScript on your browser and refresh the page. Learn_More
     * Contact_Wells_Fargo_Advisors
 ***** Rewards and Benefits *****
 ***** Explore Rewards *****
-    * Go_Far®_Rewards
-***** Relationship Program *****
-    * Customer_Relationship_Overview
+    * Wells_Fargo_Rewards®
 ***** Your Financial Goals *****
     * Banking_Made_Easy
     * Borrowing_and_Credit
     * Security_Center
 ***** Popular Links *****
-    * Sign_On_to_Go_Far_Rewards
-    * Go_Far_Rewards_FAQs
+    * Sign_On_to_Rewards
+    * Rewards_FAQs
     * Credit_Cards
 
 Navegó a una página que no está disponible en español en este momento.
@@ -163,11 +159,11 @@ Product                  Interest_Rate APR
 Conforming and Government_Loans
 30-Year_Fixed_Rate       3.25%         3.344%
 30-Year_Fixed-Rate_VA    2.75%         2.981%
-15-Year_Fixed_Rate       2.5%          2.667%
+15-Year_Fixed_Rate       2.5%          2.668%
 Jumbo_Loans Amounts that exceed conforming loan limits
 30-Year_Fixed-Rate_Jumbo 3.125%        3.169%
 15-Year_Fixed-Rate_Jumbo 2.875%        2.992%
-Rates, terms, and fees as of 10/22/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 10/23/2021 12:17 PM Eastern Daylight Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -176,12 +172,12 @@ tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       3.375%        3.471%
+30-Year_Fixed_Rate       3.375%        3.472%
 15-Year_Fixed_Rate       2.625%        2.796%
 Jumbo_Loans Amounts that exceed conforming loan limits
 30-Year_Fixed-Rate_Jumbo 3.25%         3.293%
 15-Year_Fixed-Rate_Jumbo 3.0%          3.095%
-Rates, terms, and fees as of 10/22/2021 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 10/23/2021 12:17 PM Eastern Daylight Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
