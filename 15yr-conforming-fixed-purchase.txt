@@ -150,31 +150,31 @@ Fin de ventana emergente
 
 
 Today's purchase rates are based on the purchase of a single-family, primary
-residence, in TX. This rate assumes a credit score of 780, includes 0.375 in
-discount_points, which is an upfront $2,812.50 included in closing costs below,
+residence, in TX. This rate assumes a credit score of 780, includes 0.500 in
+discount_points, which is an upfront $3,750.00 included in closing costs below,
 and assumes the loan will have an escrow account. Contact a home mortgage
 consultant to learn more.
 ***** Jumbo_Loan *****
 30-Year Fixed-Rate Jumbo
-Interest_Rate                                                       3.0%
-APR                                                                 3.056%
+Interest_Rate                                                       2.875%
+APR                                                                 2.94%
 Loan Amount                                                         750000
 Down Payment                                                        25.0%
 Term                                                                30 yrs
-Monthly Principal & Interest Payment                                3162
+Monthly Principal & Interest Payment                                3112
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      10978
+Closing Costs (includes the cost for required discount points)      11846
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 11/29/2021 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 11/30/2021 10:15 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
 of this loan example.
 ***** Projected Payments *****
 Payment Calculation                                                 Years 1-30
-Principal & Interest                                                $3,162.04
+Principal & Interest                                                $3,111.70
 Mortgage Insurance                                                  + 0
-Estimated Total Monthly Payment                                     $3,162.04
+Estimated Total Monthly Payment                                     $3,111.70
 (Excludes taxes and hazard insurance; total payment will be higher)
 **** Important disclosures, assumptions and APR Information ****
 *** General Disclosures ***
