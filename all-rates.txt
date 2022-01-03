@@ -158,12 +158,12 @@ tab-purchaserates">
 Product                  Interest_Rate APR
 Conforming and Government_Loans
 30-Year_Fixed_Rate       3.25%         3.36%
-30-Year_Fixed-Rate_VA    2.75%         2.99%
+30-Year_Fixed-Rate_VA    2.75%         3.001%
 15-Year_Fixed_Rate       2.5%          2.677%
 Jumbo_Loans Amounts that exceed conforming loan limits
-30-Year_Fixed-Rate_Jumbo 3.0%          3.065%
-15-Year_Fixed-Rate_Jumbo 2.875%        2.976%
-Rates, terms, and fees as of 12/31/2021 10:15 AM Eastern Standard Time and
+30-Year_Fixed-Rate_Jumbo 3.125%        3.171%
+15-Year_Fixed-Rate_Jumbo 2.875%        2.994%
+Rates, terms, and fees as of 1/03/2022 10:15 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -172,12 +172,12 @@ tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       3.375%        3.487%
+30-Year_Fixed_Rate       3.375%        3.498%
 15-Year_Fixed_Rate       2.625%        2.824%
 Jumbo_Loans Amounts that exceed conforming loan limits
-30-Year_Fixed-Rate_Jumbo 3.125%        3.188%
-15-Year_Fixed-Rate_Jumbo 3.0%          3.079%
-Rates, terms, and fees as of 12/31/2021 10:15 AM Eastern Standard Time and
+30-Year_Fixed-Rate_Jumbo 3.25%         3.294%
+15-Year_Fixed-Rate_Jumbo 3.0%          3.097%
+Rates, terms, and fees as of 1/03/2022 10:15 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
