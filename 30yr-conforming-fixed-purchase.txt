@@ -150,22 +150,22 @@ Fin de ventana emergente
 
 
 Today's purchase rates are based on the purchase of a single-family, primary
-residence, in TX. This rate assumes a credit score of 740, includes 0.125 in
-discount_points, which is an upfront $250.00 included in closing costs below,
+residence, in TX. This rate assumes a credit score of 740, includes 0.250 in
+discount_points, which is an upfront $500.00 included in closing costs below,
 and assumes the loan will have an escrow account. Contact a home mortgage
 consultant to learn more.
 ***** Conforming_Loan *****
 30-Year Fixed Rate
 Interest_Rate                                                       3.5%
-APR                                                                 3.601%
+APR                                                                 3.612%
 Loan Amount                                                         200000
 Down Payment                                                        25.0%
 Term                                                                30 yrs
 Monthly Principal & Interest Payment                                898
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      5316
+Closing Costs (includes the cost for required discount points)      5566
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 1/12/2022 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 1/13/2022 10:15 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
