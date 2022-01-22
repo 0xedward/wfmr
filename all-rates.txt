@@ -43,9 +43,15 @@ Fin de ventana emergente
     * Current Mortgage and Refinance Rates
 ****** Current Mortgage and Refinance Rates ******
                     Print
-**** The mortgage rates below are sample rates based on assumptions. Use our
+
+***** Refresh, Restart, Refinance *****
+****
+Special promotion on mortgage refinances when you lock your interest rate by
+January 25, 2022.Contact us today: 1-866-234-0207. ****
+The mortgage rates below are sample rates based on assumptions. Use our
 calculator to see estimated rates today for mortgage and refinance loans based
-on your specific needs.Get_Your_Custom_Rate ****
+on your specific needs.
+Get_Your_Custom_Rate
 Interest rates for mortgages below may include up to 0.5 discount points as an
 upfront cost to borrowers. Rates for refinancing assume no cash out.
     * Purchase_Rates
