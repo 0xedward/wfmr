@@ -43,15 +43,9 @@ Fin de ventana emergente
     * Current Mortgage and Refinance Rates
 ****** Current Mortgage and Refinance Rates ******
                     Print
-
-***** Refresh, Restart, Refinance *****
-****
-Special promotion on mortgage refinances when you lock your interest rate by
-January 30, 2022.Contact us today: 1-866-234-0207. ****
-The mortgage rates below are sample rates based on assumptions. Use our
+**** The mortgage rates below are sample rates based on assumptions. Use our
 calculator to see estimated rates today for mortgage and refinance loans based
-on your specific needs.
-Get_Your_Custom_Rate
+on your specific needs.Get_Your_Custom_Rate ****
 Interest rates for mortgages below may include up to 0.5 discount points as an
 upfront cost to borrowers. Rates for refinancing assume no cash out.
     * Purchase_Rates
@@ -60,13 +54,13 @@ tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       3.625%        3.758%
-30-Year_Fixed-Rate_VA    3.375%        3.625%
-15-Year_Fixed_Rate       2.875%        3.092%
+30-Year_Fixed_Rate       3.625%        3.737%
+30-Year_Fixed-Rate_VA    3.375%        3.614%
+15-Year_Fixed_Rate       2.875%        3.072%
 Jumbo_Loans Amounts that exceed conforming loan limits
-30-Year_Fixed-Rate_Jumbo 3.25%         3.297%
-15-Year_Fixed-Rate_Jumbo 3.0%          3.12%
-Rates, terms, and fees as of 1/28/2022 10:15 AM Eastern Standard Time and
+30-Year_Fixed-Rate_Jumbo 3.125%        3.191%
+15-Year_Fixed-Rate_Jumbo 3.0%          3.101%
+Rates, terms, and fees as of 1/31/2022 10:15 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
@@ -75,12 +69,12 @@ tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       3.75%         3.865%
-15-Year_Fixed_Rate       3.0%          3.203%
+30-Year_Fixed_Rate       3.75%         3.875%
+15-Year_Fixed_Rate       3.0%          3.219%
 Jumbo_Loans Amounts that exceed conforming loan limits
-30-Year_Fixed-Rate_Jumbo 3.25%         3.304%
-15-Year_Fixed-Rate_Jumbo 3.0%          3.116%
-Rates, terms, and fees as of 1/28/2022 10:15 AM Eastern Standard Time and
+30-Year_Fixed-Rate_Jumbo 3.25%         3.314%
+15-Year_Fixed-Rate_Jumbo 3.125%        3.204%
+Rates, terms, and fees as of 1/31/2022 10:15 AM Eastern Standard Time and
 subject to change without notice.
 Select a product to view important disclosures, payments, assumptions, and APR
 information. Please note we offer additional home loan options not displayed
