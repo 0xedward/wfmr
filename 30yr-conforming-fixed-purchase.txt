@@ -47,31 +47,31 @@ Fin de ventana emergente
 
 
 Today's purchase rates are based on the purchase of a single-family, primary
-residence, in TX. This rate assumes a credit score of 740, includes 0.375 in
-discount_points, which is an upfront $750.00 included in closing costs below,
-and assumes the loan will have an escrow account. Contact a home mortgage
+residence, in TX. This rate assumes a credit score of 740, includes 0.000 in
+discount_points, which is an upfront $0.00 included in closing costs below, and
+assumes the loan will have an escrow account. Contact a home mortgage
 consultant to learn more.
 ***** Conforming_Loan *****
 30-Year Fixed Rate
-Interest_Rate                                                       3.875%
-APR                                                                 4.0%
+Interest_Rate                                                       4.0%
+APR                                                                 4.094%
 Loan Amount                                                         200000
 Down Payment                                                        25.0%
 Term                                                                30 yrs
-Monthly Principal & Interest Payment                                940
+Monthly Principal & Interest Payment                                955
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      5853
+Closing Costs (includes the cost for required discount points)      5072
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 2/12/2022 10:57 AM Eastern Standard Time and
+Rates, terms, and fees as of 2/14/2022 10:15 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
 of this loan example.
 ***** Projected Payments *****
 Payment Calculation                                                 Years 1-30
-Principal & Interest                                                $940.48
+Principal & Interest                                                $954.84
 Mortgage Insurance                                                  + 0
-Estimated Total Monthly Payment                                     $940.48
+Estimated Total Monthly Payment                                     $954.84
 (Excludes taxes and hazard insurance; total payment will be higher)
 **** Important disclosures, assumptions and APR Information ****
 *** General Disclosures ***
@@ -103,21 +103,8 @@ Estimated Total Monthly Payment                                     $940.48
       lend. The actual fees, costs, and monthly payment on your specific loan
       transaction may vary, and may include city, county, or other additional
       fees and costs.
-
-*****   Apply online *****
-Our simplified mortgage application will walk you through each step.
-
-Apply_Now
-
-*****   Get prequalified *****
-Have us contact you to see how much you may be able to borrow.
-
-Get_Started
-
-***** Talk to a consultant *****
-    * Call 1-866-290-0462
-    * Get_a_call_back
-    * Find_a_local_consultant
+**** If you’re ready to apply online, let’s goApply_NowCall 1-866-290-0462 or
+find a mortgage consultant in_your_area ****
 Equal Housing Lender
 Wells Fargo Home Mortgage is a division of Wells Fargo Bank, N.A.
 LRC-0721
