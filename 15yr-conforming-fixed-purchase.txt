@@ -47,22 +47,22 @@ Fin de ventana emergente
 
 
 Today's purchase rates are based on the purchase of a single-family, primary
-residence, in TX. This rate assumes a credit score of 780, includes 0.375 in
-discount_points, which is an upfront $2,812.50 included in closing costs below,
+residence, in TX. This rate assumes a credit score of 780, includes 0.500 in
+discount_points, which is an upfront $3,750.00 included in closing costs below,
 and assumes the loan will have an escrow account. Contact a home mortgage
 consultant to learn more.
 ***** Jumbo_Loan *****
 30-Year Fixed-Rate Jumbo
 Interest_Rate                                                       3.5%
-APR                                                                 3.557%
+APR                                                                 3.567%
 Loan Amount                                                         750000
 Down Payment                                                        25.0%
 Term                                                                30 yrs
 Monthly Principal & Interest Payment                                3368
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      11882
+Closing Costs (includes the cost for required discount points)      12748
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 2/14/2022 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 2/15/2022 10:16 AM Eastern Standard Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
@@ -99,21 +99,8 @@ Estimated Total Monthly Payment                                     $3,367.84
       lend. The actual fees, costs, and monthly payment on your specific loan
       transaction may vary, and may include city, county, or other additional
       fees and costs.
-
-*****   Apply online *****
-Our simplified mortgage application will walk you through each step.
-
-Apply_Now
-
-*****   Get prequalified *****
-Have us contact you to see how much you may be able to borrow.
-
-Get_Started
-
-***** Talk to a consultant *****
-    * Call 1-866-290-0462
-    * Get_a_call_back
-    * Find_a_local_consultant
+**** If you’re ready to apply online, let’s goApply_NowCall 1-866-290-0462 or
+find a mortgage consultant in_your_area ****
 Equal Housing Lender
 Wells Fargo Home Mortgage is a division of Wells Fargo Bank, N.A.
 LRC-0721

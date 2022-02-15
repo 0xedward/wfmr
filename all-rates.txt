@@ -46,39 +46,37 @@ Fin de ventana emergente
 **** The mortgage rates below are sample rates based on assumptions. Use our
 calculator to see estimated rates today for mortgage and refinance loans based
 on your specific needs.Get_Your_Custom_Rate ****
-Interest rates for mortgages below may include up to 0.5 discount points as an
-upfront cost to borrowers. Rates for refinancing assume no cash out.
     * Purchase_Rates
     * Refinance_Rates
 tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       4.0%          4.094%
-30-Year_Fixed-Rate_VA    3.75%         3.995%
-15-Year_Fixed_Rate       3.25%         3.487%
+30-Year_Fixed_Rate       4.0%          4.104%
+30-Year_Fixed-Rate_VA    3.75%         4.005%
+15-Year_Fixed_Rate       3.375%        3.594%
 Jumbo_Loans Amounts that exceed conforming loan limits
-30-Year_Fixed-Rate_Jumbo 3.5%          3.557%
-15-Year_Fixed-Rate_Jumbo 3.375%        3.459%
-Rates, terms, and fees as of 2/14/2022 10:15 AM Eastern Standard Time and
+30-Year_Fixed-Rate_Jumbo 3.5%          3.567%
+15-Year_Fixed-Rate_Jumbo 3.375%        3.478%
+Rates, terms, and fees as of 2/15/2022 10:16 AM Eastern Standard Time and
 subject to change without notice.
-Select a product to view important disclosures, payments, assumptions, and APR
-information. Please note we offer additional home loan options not displayed
-here. 
 tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Conforming and Government_Loans
-30-Year_Fixed_Rate       4.125%        4.232%
-15-Year_Fixed_Rate       3.625%        3.812%
+30-Year_Fixed_Rate       4.125%        4.243%
+15-Year_Fixed_Rate       3.625%        3.83%
 Jumbo_Loans Amounts that exceed conforming loan limits
-30-Year_Fixed-Rate_Jumbo 3.625%        3.68%
-15-Year_Fixed-Rate_Jumbo 3.375%        3.492%
-Rates, terms, and fees as of 2/14/2022 10:15 AM Eastern Standard Time and
+30-Year_Fixed-Rate_Jumbo 3.625%        3.691%
+15-Year_Fixed-Rate_Jumbo 3.5%          3.581%
+Rates, terms, and fees as of 2/15/2022 10:16 AM Eastern Standard Time and
 subject to change without notice.
+
+
 Select a product to view important disclosures, payments, assumptions, and APR
-information. Please note we offer additional home loan options not displayed
-here.
+information as some rates may include up to .5 discount points as an upfront
+cost to borrowers. Rates for refinancing assume no cash out. Please note we
+offer additional home loan options not displayed here.
 *****  See more products  *****
  Looking for interest rates on mortgage loans not listed above? Check_mortgage
 rates
