@@ -60,9 +60,9 @@ Down Payment                                                        25.0%
 Term                                                                30 yrs
 Monthly Principal & Interest Payment                                3527
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      11068
+Closing Costs (includes the cost for required discount points)      10988
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 3/16/2022 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 3/18/2022 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
@@ -110,8 +110,8 @@ Contact_us
 ***** Customized mortgage rate tool *****
 Get customized mortgage rates and payments.
 Get_started
-***** Compare Home Mortgage Loans Calculator *****
-Compare options for your specific needs.
+***** Estimate your price range *****
+Explore what you may afford.
 Get_started
 ***** Still have questions? *****
 **** Call Us ****
