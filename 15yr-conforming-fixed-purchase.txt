@@ -53,25 +53,25 @@ and assumes the loan will have an escrow account. Contact a home mortgage
 consultant to learn more.
 ***** Jumbo_Loan *****
 30-Year Fixed-Rate Jumbo
-Interest_Rate                                                       3.875%
-APR                                                                 3.986%
+Interest_Rate                                                       3.75%
+APR                                                                 3.86%
 Loan Amount                                                         750000
 Down Payment                                                        25.0%
 Term                                                                30 yrs
-Monthly Principal & Interest Payment                                3527
+Monthly Principal & Interest Payment                                3473
 (Excludes taxes and hazard insurance; total payment will be higher)
-Closing Costs (includes the cost for required discount points)      15499
+Closing Costs (includes the cost for required discount points)      15496
 Upfront Mortgage Insurance Premium                                  0
-Rates, terms, and fees as of 3/30/2022 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 3/31/2022 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 
 The following table illustrates the minimum and maximum payments over the life
 of this loan example.
 ***** Projected Payments *****
 Payment Calculation                                                 Years 1-30
-Principal & Interest                                                $3,526.78
+Principal & Interest                                                $3,473.37
 Mortgage Insurance                                                  + 0
-Estimated Total Monthly Payment                                     $3,526.78
+Estimated Total Monthly Payment                                     $3,473.37
 (Excludes taxes and hazard insurance; total payment will be higher)
 **** Important disclosures, assumptions and APR Information ****
 *** General Disclosures ***
