@@ -60,7 +60,7 @@ Conforming and Government_Loans
 15-Year_Fixed_Rate       4.375%        4.638%
 30-Year_Fixed-Rate_VA    4.625%        4.928%
 30-Year_Fixed_Rate       5.0%          5.178%
-Rates, terms, and fees as of 5/13/2022 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 5/14/2022 11:57 AM Eastern Daylight Time and
 subject to change without notice.
 tab-refinancerates">
                  Refinance Rates table
@@ -73,7 +73,7 @@ Conforming and Government_Loans
 7/6-Month_ARM            4.875%        4.117%
 15-Year_Fixed_Rate       4.5%          4.786%
 30-Year_Fixed_Rate       5.25%         5.421%
-Rates, terms, and fees as of 5/13/2022 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 5/14/2022 11:57 AM Eastern Daylight Time and
 subject to change without notice.
 
 
@@ -141,4 +141,4 @@ non-conforming loan.
     * Careers
     * Diversity_and_Accessibility
     * Home
-© 1999 - 2022 Wells Fargo. All rights reserved. NMLSR ID 399801
+© 1999 - 2022 Wells Fargo. NMLSR ID 399801
