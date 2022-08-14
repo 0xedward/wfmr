@@ -57,11 +57,11 @@ Jumbo_Loans Amounts that exceed conforming loan limits
 15-Year_Fixed-Rate_Jumbo 4.375%        4.537%
 30-Year_Fixed-Rate_Jumbo 4.5%          4.614%
 Conforming and Government_Loans
-7/6-Month_ARM            5.25%         5.091%
+7/6-Month_ARM            5.25%         5.09%
 15-Year_Fixed_Rate       4.5%          4.802%
 30-Year_Fixed-Rate_VA    4.375%        4.695%
 30-Year_Fixed_Rate       5.0%          5.178%
-Rates, terms, and fees as of 8/12/2022 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 8/13/2022 11:31 AM Eastern Daylight Time and
 subject to change without notice.
 tab-refinancerates">
                  Refinance Rates table
@@ -74,7 +74,7 @@ Conforming and Government_Loans
 7/6-Month_ARM            5.375%        5.156%
 15-Year_Fixed_Rate       4.625%        4.931%
 30-Year_Fixed_Rate       5.125%        5.306%
-Rates, terms, and fees as of 8/12/2022 10:15 AM Eastern Daylight Time and
+Rates, terms, and fees as of 8/13/2022 11:31 AM Eastern Daylight Time and
 subject to change without notice.
 
 
