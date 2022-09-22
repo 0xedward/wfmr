@@ -43,36 +43,47 @@ Fin de ventana emergente
     * Current Mortgage and Refinance Rates
 ****** Current Mortgage and Refinance Rates ******
                     Print
+
+***** Happening now: special offer for home buyers *****
+
+Apply by September 30 and close your new loan with Wells Fargo within 120 days
+to get your $500 gift,Get_a_call_backOr call us at 1-866-715-3783.
 **** The mortgage rates below are sample rates based on assumptions. Use our
 calculator to see estimated rates today for mortgage and refinance loans based
-on your specific needs.
-Get_Your_Custom_Rate ****
+on your specific needs. ****
+ Customized purchase rates
+A mortgage prequalification checks your credit history for a confident rate
+estimate, and doesn’t affect your credit.
+Get_prequalified
+ Customized refinance rates
+Use our mortgage calculator to quickly check rates based on your location,
+property value, and loan amount.
+Calculate_rates
     * Purchase_Rates
     * Refinance_Rates
 tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      4.75%         4.994%
-15-Year_Fixed-Rate_Jumbo 4.875%        5.078%
-30-Year_Fixed-Rate_Jumbo 5.125%        5.244%
+7/6-Month_ARM_Jumbo      4.875%        5.034%
+15-Year_Fixed-Rate_Jumbo 5.0%          5.165%
+30-Year_Fixed-Rate_Jumbo 5.25%         5.336%
 Conforming and Government_Loans
-7/6-Month_ARM            5.5%          5.432%
-30-Year_Fixed-Rate_VA    5.375%        5.68%
-30-Year_Fixed_Rate       6.125%        6.304%
-Rates, terms, and fees as of 9/21/2022 10:15 AM Eastern Daylight Time and
+7/6-Month_ARM            5.625%        5.484%
+30-Year_Fixed_Rate       6.125%        6.316%
+Rates, terms, and fees as of 9/22/2022 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      5.0%          5.093%
-15-Year_Fixed-Rate_Jumbo 5.0%          5.199%
-30-Year_Fixed-Rate_Jumbo 5.25%         5.367%
+7/6-Month_ARM_Jumbo      5.0%          5.105%
+15-Year_Fixed-Rate_Jumbo 5.125%        5.287%
+30-Year_Fixed-Rate_Jumbo 5.375%        5.459%
 Conforming and Government_Loans
-7/6-Month_ARM            5.625%        5.498%
-30-Year_Fixed_Rate       6.25%         6.432%
-Rates, terms, and fees as of 9/21/2022 10:15 AM Eastern Daylight Time and
+7/6-Month_ARM            5.75%         5.551%
+30-Year_Fixed_Rate       6.25%         6.444%
+Rates, terms, and fees as of 9/22/2022 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 
 
@@ -105,6 +116,22 @@ Mon – Fri: 6 am – 10 pm 
 Sat: 8 am – 2 pm 
 Central Time
 Marque 9 para recibir atención en español.
+Submit your purchase application between September 21 and September 30, 2022 by
+11:59 p.m. Central Time and close within 120 days from the application date.
+The new loan must be financed with Wells Fargo to qualify for the $500 My
+Mortgage Gift award.
+Eligible individuals will be sent redemption instructions for the My Mortgage
+GiftSM award approximately 2 weeks after closing on a new purchase loan secured
+by an eligible first mortgage or deed of trust with Wells Fargo Home Mortgage
+(“New Loan”), subject to qualification, approval and closing. Only one My
+Mortgage Gift award is permitted per eligible new loan. This award cannot be
+combined with Union Plus or Corporate Mortgage Benefit Program offers. This
+award is void where prohibited, transferable, and subject to change or
+cancellation with no prior notice. Awards may constitute taxable income.
+Federal, state, and local taxes, and any use of the award not otherwise
+specified in the Terms and Conditions (available at wellsfargo.com/
+mymortgageterms and provided at receipt of award) are the sole responsibility
+of the My Mortgage Gift recipient.
 Equal Housing Lender
 Wells Fargo Home Mortgage is a division of Wells Fargo Bank, N.A.
 LRC-0721
