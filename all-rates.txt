@@ -47,7 +47,7 @@ Fin de ventana emergente
 ***** Happening now: special offer for home buyers *****
 
 Apply by September 30 and close your new loan with Wells Fargo within 120 days
-to get your $500 gift,Get_a_call_backOr call us at 1-866-715-3783.
+to get your $500 gift,Get_a_call_backOr call us at 1-866-234-0207.
 **** The mortgage rates below are sample rates based on assumptions. Use our
 calculator to see estimated rates today for mortgage and refinance loans based
 on your specific needs. ****
@@ -65,25 +65,25 @@ tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      4.875%        5.034%
-15-Year_Fixed-Rate_Jumbo 5.0%          5.165%
-30-Year_Fixed-Rate_Jumbo 5.25%         5.336%
+7/6-Month_ARM_Jumbo      5.0%          5.107%
+15-Year_Fixed-Rate_Jumbo 5.125%        5.31%
+30-Year_Fixed-Rate_Jumbo 5.375%        5.473%
 Conforming and Government_Loans
-7/6-Month_ARM            5.625%        5.484%
-30-Year_Fixed_Rate       6.125%        6.316%
-Rates, terms, and fees as of 9/22/2022 10:15 AM Eastern Daylight Time and
+7/6-Month_ARM            5.75%         5.549%
+30-Year_Fixed_Rate       6.375%        6.581%
+Rates, terms, and fees as of 9/23/2022 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      5.0%          5.105%
-15-Year_Fixed-Rate_Jumbo 5.125%        5.287%
-30-Year_Fixed-Rate_Jumbo 5.375%        5.459%
+7/6-Month_ARM_Jumbo      5.125%        5.178%
+15-Year_Fixed-Rate_Jumbo 5.25%         5.432%
+30-Year_Fixed-Rate_Jumbo 5.5%          5.596%
 Conforming and Government_Loans
-7/6-Month_ARM            5.75%         5.551%
-30-Year_Fixed_Rate       6.25%         6.444%
-Rates, terms, and fees as of 9/22/2022 10:15 AM Eastern Daylight Time and
+7/6-Month_ARM            5.875%        5.616%
+30-Year_Fixed_Rate       6.625%        6.799%
+Rates, terms, and fees as of 9/23/2022 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 
 
