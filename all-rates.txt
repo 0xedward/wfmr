@@ -65,26 +65,25 @@ tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      5.25%         5.855%
-15-Year_Fixed-Rate_Jumbo 5.25%         5.436%
-30-Year_Fixed-Rate_Jumbo 5.5%          5.61%
+7/6-Month_ARM_Jumbo      5.25%         5.844%
+15-Year_Fixed-Rate_Jumbo 5.25%         5.416%
+30-Year_Fixed-Rate_Jumbo 5.5%          5.599%
 Conforming and Government_Loans
-7/6-Month_ARM            6.25%         6.443%
-15-Year_Fixed_Rate       5.75%         6.045%
-30-Year_Fixed-Rate_VA    5.5%          5.819%
-30-Year_Fixed_Rate       6.25%         6.455%
-Rates, terms, and fees as of 11/23/2022 10:15 AM Eastern Standard Time and
+15-Year_Fixed_Rate       5.625%        5.959%
+30-Year_Fixed-Rate_VA    5.375%        5.704%
+30-Year_Fixed_Rate       6.25%         6.431%
+Rates, terms, and fees as of 11/23/2022 12:50 PM Eastern Standard Time and
 subject to change without notice.
 tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      5.5%          5.99%
-15-Year_Fixed-Rate_Jumbo 5.5%          5.683%
-30-Year_Fixed-Rate_Jumbo 5.75%         5.848%
+7/6-Month_ARM_Jumbo      5.5%          5.978%
+15-Year_Fixed-Rate_Jumbo 5.5%          5.663%
+30-Year_Fixed-Rate_Jumbo 5.75%         5.836%
 Conforming and Government_Loans
-30-Year_Fixed_Rate       6.625%        6.812%
-Rates, terms, and fees as of 11/23/2022 10:15 AM Eastern Standard Time and
+30-Year_Fixed_Rate       6.5%          6.698%
+Rates, terms, and fees as of 11/23/2022 12:50 PM Eastern Standard Time and
 subject to change without notice.
 
 
