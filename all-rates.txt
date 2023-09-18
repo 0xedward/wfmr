@@ -58,8 +58,8 @@ A mortgage prequalification checks your credit history for a confident rate
 estimate, and doesn’t affect your credit.
 Get_prequalified
  Customized refinance rates
-Use our mortgage calculator to quickly check rates based on your location,
-property value, and loan amount.
+Estimate your monthly payments, annual percentage rate (APR), and mortgage
+interest rate to see if refinancing could be the right move.
 Calculate_rates
     * Purchase_Rates
     * Refinance_Rates
@@ -67,25 +67,25 @@ tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      6.625%        7.444%
-15-Year_Fixed-Rate_Jumbo 6.75%         6.964%
-30-Year_Fixed-Rate_Jumbo 6.75%         6.869%
+7/6-Month_ARM_Jumbo      6.625%        7.457%
+15-Year_Fixed-Rate_Jumbo 6.875%        7.049%
+30-Year_Fixed-Rate_Jumbo 6.875%        6.97%
 Conforming and Government_Loans
-7/6-Month_ARM            6.75%         7.605%
-30-Year_Fixed-Rate_VA    6.5%          6.849%
-30-Year_Fixed_Rate       7.0%          7.192%
-Rates, terms, and fees as of 9/15/2023 10:15 AM Eastern Daylight Time and
+7/6-Month_ARM            6.875%        7.647%
+30-Year_Fixed-Rate_VA    6.625%        6.977%
+30-Year_Fixed_Rate       7.125%        7.318%
+Rates, terms, and fees as of 9/18/2023 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      6.875%        7.56%
-15-Year_Fixed-Rate_Jumbo 7.0%          7.17%
-30-Year_Fixed-Rate_Jumbo 6.875%        7.004%
+7/6-Month_ARM_Jumbo      6.875%        7.573%
+15-Year_Fixed-Rate_Jumbo 7.0%          7.191%
+30-Year_Fixed-Rate_Jumbo 7.0%          7.105%
 Conforming and Government_Loans
-30-Year_Fixed_Rate       7.625%        7.84%
-Rates, terms, and fees as of 9/15/2023 10:15 AM Eastern Daylight Time and
+30-Year_Fixed_Rate       7.75%         7.953%
+Rates, terms, and fees as of 9/18/2023 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 
 
@@ -93,9 +93,6 @@ Select a product to view important disclosures, payments, assumptions, and APR
 information as some rates may include up to 1.0 discount point as an upfront
 cost to borrowers. Rates for refinancing assume no cash out. Please note we
 offer additional home loan options not displayed here.
-*****  See more products  *****
- Looking for interest rates on mortgage loans not listed above? Check_mortgage
-rates
 
   Contact_Us
 Call 1-866-290-0462 or find a mortgage consultant in_your_area
