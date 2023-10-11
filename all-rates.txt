@@ -67,25 +67,25 @@ tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      7.0%          7.64%
-15-Year_Fixed-Rate_Jumbo 7.125%        7.341%
-30-Year_Fixed-Rate_Jumbo 7.125%        7.246%
+7/6-Month_ARM_Jumbo      6.875%        7.587%
+15-Year_Fixed-Rate_Jumbo 7.125%        7.3%
+30-Year_Fixed-Rate_Jumbo 7.125%        7.221%
 Conforming and Government_Loans
-7/6-Month_ARM            7.0%          7.712%
-30-Year_Fixed-Rate_VA    7.0%          7.36%
-30-Year_Fixed_Rate       7.5%          7.698%
-Rates, terms, and fees as of 10/10/2023 11:00 AM Eastern Daylight Time and
+7/6-Month_ARM            7.0%          7.699%
+30-Year_Fixed-Rate_VA    7.0%          7.347%
+30-Year_Fixed_Rate       7.375%        7.597%
+Rates, terms, and fees as of 10/11/2023 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      7.25%         7.759%
-15-Year_Fixed-Rate_Jumbo 7.375%        7.546%
-30-Year_Fixed-Rate_Jumbo 7.25%         7.382%
+7/6-Month_ARM_Jumbo      7.125%        7.705%
+15-Year_Fixed-Rate_Jumbo 7.25%         7.441%
+30-Year_Fixed-Rate_Jumbo 7.25%         7.357%
 Conforming and Government_Loans
 30-Year_Fixed_Rate       8.0%          8.22%
-Rates, terms, and fees as of 10/10/2023 11:00 AM Eastern Daylight Time and
+Rates, terms, and fees as of 10/11/2023 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 
 
@@ -95,7 +95,7 @@ cost to borrowers. Rates for refinancing assume no cash out. Please note we
 offer additional home loan options not displayed here.
 
   Contact_Us
-Call 1-866-290-0462 or find a mortgage consultant in_your_area
+Call 1-866-290-0462 or find_a_mortgage_consultant in your area
 ***** Still have questions? *****
 **** Quick Help ****
     * Finish_a_saved_application
@@ -117,8 +117,8 @@ Central Time
 Marque 9 para recibir atención en español.
 Equal Housing Lender
 Wells Fargo Home Mortgage is a division of Wells Fargo Bank, N.A.
-QSR-0423-04761
-LRC-1122
+QSR-04032025-5995604.1.1
+LRC-1023
 ***** Annual Percentage Rate (APR) *****
 The cost to borrow money expressed as a yearly percentage. For mortgage loans,
 excluding home equity lines of credit, it includes the interest rate plus other
