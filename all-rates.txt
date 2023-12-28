@@ -67,11 +67,11 @@ tab-purchaserates">
            Purchase Rates table
 Product               Interest_Rate APR
 Conforming and Government_Loans
-7/6-Month_ARM         6.375%        7.382%
-15-Year_Fixed_Rate    5.375%        5.706%
+7/6-Month_ARM         6.375%        7.37%
+15-Year_Fixed_Rate    5.375%        5.686%
 30-Year_Fixed-Rate_VA 5.75%         6.081%
-30-Year_Fixed_Rate    6.125%        6.316%
-Rates, terms, and fees as of 12/27/2023 10:15 AM Eastern Standard Time and
+30-Year_Fixed_Rate    6.125%        6.304%
+Rates, terms, and fees as of 12/28/2023 10:16 AM Eastern Standard Time and
 subject to change without notice.
 tab-refinancerates">
          Refinance Rates table
@@ -79,7 +79,7 @@ Product            Interest_Rate APR
 Conforming and Government_Loans
 15-Year_Fixed_Rate 5.625%        5.936%
 30-Year_Fixed_Rate 6.375%        6.58%
-Rates, terms, and fees as of 12/27/2023 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 12/28/2023 10:16 AM Eastern Standard Time and
 subject to change without notice.
 
 
