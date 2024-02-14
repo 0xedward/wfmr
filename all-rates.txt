@@ -67,27 +67,27 @@ tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      6.375%        7.31%
-15-Year_Fixed-Rate_Jumbo 6.625%        6.772%
-30-Year_Fixed-Rate_Jumbo 6.625%        6.752%
+7/6-Month_ARM_Jumbo      6.375%        7.322%
+15-Year_Fixed-Rate_Jumbo 6.625%        6.792%
+30-Year_Fixed-Rate_Jumbo 6.75%         6.84%
 Conforming and Government_Loans
-7/6-Month_ARM            6.625%        7.535%
+7/6-Month_ARM            6.75%         7.564%
 15-Year_Fixed_Rate       5.875%        6.209%
-30-Year_Fixed-Rate_VA    6.375%        6.718%
-30-Year_Fixed_Rate       6.625%        6.809%
-Rates, terms, and fees as of 2/13/2024 10:15 AM Eastern Standard Time and
+30-Year_Fixed-Rate_VA    6.5%          6.846%
+30-Year_Fixed_Rate       6.625%        6.821%
+Rates, terms, and fees as of 2/14/2024 10:15 AM Eastern Standard Time and
 subject to change without notice.
 tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      6.625%        7.44%
-15-Year_Fixed-Rate_Jumbo 6.75%         6.917%
-30-Year_Fixed-Rate_Jumbo 6.875%        6.978%
+7/6-Month_ARM_Jumbo      6.625%        7.452%
+15-Year_Fixed-Rate_Jumbo 6.75%         6.937%
+30-Year_Fixed-Rate_Jumbo 6.875%        6.991%
 Conforming and Government_Loans
-15-Year_Fixed_Rate       6.125%        6.459%
+15-Year_Fixed_Rate       6.25%         6.565%
 30-Year_Fixed_Rate       7.0%          7.199%
-Rates, terms, and fees as of 2/13/2024 10:15 AM Eastern Standard Time and
+Rates, terms, and fees as of 2/14/2024 10:15 AM Eastern Standard Time and
 subject to change without notice.
 
 
@@ -95,9 +95,16 @@ Select a product to view important disclosures, payments, assumptions, and APR
 information as some rates may include up to 1.0 discount point as an upfront
 cost to borrowers. Rates for refinancing assume no cash out. Please note we
 offer additional home loan options not displayed here.
-
-  Contact_Us
-Call 1-866-290-0462 or find_a_mortgage_consultant in your area
+*****
+Talk to a mortgage consultant *****
+Call 1-866-290-0462 to learn more about your options, or find_a_mortgage
+consultant in your area.
+Get_a_call_back
+*****
+Apply for a mortgage *****
+If you have everything you need to apply for a mortgage, you can get started
+now with our online application.
+Apply_online
 ***** Still have questions? *****
 **** Quick Help ****
     * Finish_a_saved_application
