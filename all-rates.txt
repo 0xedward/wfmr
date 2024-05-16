@@ -75,7 +75,7 @@ Conforming and Government_Loans
 15-Year_Fixed_Rate       5.5%          5.835%
 30-Year_Fixed-Rate_VA    6.0%          6.335%
 30-Year_Fixed_Rate       6.375%        6.571%
-Rates, terms, and fees as of 5/15/2024 10:16 AM Eastern Daylight Time and
+Rates, terms, and fees as of 5/16/2024 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 tab-refinancerates">
                  Refinance Rates table
@@ -86,9 +86,9 @@ Jumbo_Loans Amounts that exceed conforming loan limits
 30-Year_Fixed-Rate_Jumbo 7.0%          7.09%
 Conforming and Government_Loans
 7/6-Month_ARM            6.625%        7.524%
-15-Year_Fixed_Rate       5.625%        5.958%
-30-Year_Fixed_Rate       6.625%        6.822%
-Rates, terms, and fees as of 5/15/2024 10:16 AM Eastern Daylight Time and
+15-Year_Fixed_Rate       5.625%        5.939%
+30-Year_Fixed_Rate       6.625%        6.81%
+Rates, terms, and fees as of 5/16/2024 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 
 
