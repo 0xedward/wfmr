@@ -50,9 +50,6 @@ Fin de ventana emergente
     * Current Mortgage and Refinance Rates
 ****** Current Mortgage and Refinance Rates ******
                     Print
-The mortgage rates below are sample rates based on assumptions. Use our
-calculator to see estimated rates today for mortgage and refinance loans based
-on your specific needs.
  Customized purchase rates
 A mortgage prequalification checks your credit history for a confident rate
 estimate, and doesn’t affect your credit.
@@ -61,38 +58,34 @@ Get_prequalified
 Estimate your monthly payments, annual percentage rate (APR), and mortgage
 interest rate to see if refinancing could be the right move.
 Calculate_rates
-Special mortgage offer
-Lock your rate to take advantage of our special promotion, available in select
-locations. To see if you could benefit, talk to a mortgage consultant at 1-866-
-290-0462 .
     * Purchase_Rates
     * Refinance_Rates
 tab-purchaserates">
                  Purchase Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      6.625%        7.424%
-15-Year_Fixed-Rate_Jumbo 6.625%        6.829%
-30-Year_Fixed-Rate_Jumbo 6.75%         6.863%
+7/6-Month_ARM_Jumbo      6.5%          7.371%
+15-Year_Fixed-Rate_Jumbo 6.625%        6.769%
+30-Year_Fixed-Rate_Jumbo 6.625%        6.75%
 Conforming and Government_Loans
-7/6-Month_ARM            6.625%        7.51%
-15-Year_Fixed_Rate       5.75%         6.086%
-30-Year_Fixed-Rate_VA    6.25%         6.577%
-30-Year_Fixed_Rate       6.625%        6.811%
-Rates, terms, and fees as of 7/03/2024 10:15 AM Eastern Daylight Time and
+7/6-Month_ARM            6.5%          7.457%
+15-Year_Fixed_Rate       5.625%        5.96%
+30-Year_Fixed-Rate_VA    6.125%        6.45%
+30-Year_Fixed_Rate       6.5%          6.697%
+Rates, terms, and fees as of 7/05/2024 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 tab-refinancerates">
                  Refinance Rates table
 Product                  Interest_Rate APR
 Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      6.875%        7.555%
-15-Year_Fixed-Rate_Jumbo 6.875%        7.019%
-30-Year_Fixed-Rate_Jumbo 7.0%          7.09%
+7/6-Month_ARM_Jumbo      6.75%         7.502%
+15-Year_Fixed-Rate_Jumbo 6.75%         6.914%
+30-Year_Fixed-Rate_Jumbo 6.875%        6.976%
 Conforming and Government_Loans
-7/6-Month_ARM            6.75%         7.6%
-15-Year_Fixed_Rate       5.875%        6.21%
-30-Year_Fixed_Rate       6.75%         6.961%
-Rates, terms, and fees as of 7/03/2024 10:15 AM Eastern Daylight Time and
+7/6-Month_ARM            6.625%        7.534%
+15-Year_Fixed_Rate       5.75%         6.083%
+30-Year_Fixed_Rate       6.75%         6.936%
+Rates, terms, and fees as of 7/05/2024 10:15 AM Eastern Daylight Time and
 subject to change without notice.
 
 
