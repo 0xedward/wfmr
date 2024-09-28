@@ -21,139 +21,191 @@
 
 
 
-Skip_to_content
+
+
+
+Skip_to_main_content
 [Wells_Fargo_Home_Page]
-    * [Secure]_Sign_On
-    * Customer_Service
     * ATMs/Locations
+    * Help
+    * About_Us
     * Español
- Search  Opens a dialog.
-    * selected_Personal
+    * Sign_On
+
+MENU
+***** Esta página solo está disponible en inglés *****
+Selecione Cancele para permanecer en esta página o Continúe para ver nuestra
+página principal en español.
+CanceleContinúe
+***** How can we help? *****
+    * &zwj;__Find_a_location__&zwj;
+      [searchTxt           ] City, State or ZIP
+       Go
+    * &zwj;__Make_an_appointment__&zwj;
+      [searchTxt           ] City, State or ZIP
+       [Y                   ] Go
+    * &zwj;__Quick_help_&zwj;
+          o Customer_service_and_FAQs
+          o Find_routing_and_account_numbers
+***** Popular FAQs *****
+    * How_do_I_find_my_routing_and_account_numbers?
+    * Is_there_a_fee_for_Zelle®?
+    * How_do_I_report_suspected_fraud?
+    * See_more_FAQs
+&zwj; Search
+    * Personal
     * Investing_&_Wealth_Management
     * Small_Business
     * Commercial_Banking
     * Corporate_&_Investment_Banking
-
-Navegó a una página que no está disponible en español en este momento.
-Seleccione el enlace si desea ver otro contenido en español.
-Página_principal
- 
-Comienzo de ventana emergente
-[Close]
-***** Esta página solo está disponible en inglés *****
-Selecione Cancele para permanecer en esta página o Continúe para ver nuestra
-página principal en español.
-Cancele Continúe
-Fin de ventana emergente
+    * ATMs/Locations
+    * Customer_Service_and_FAQs
+    * About_Us
+    * Español
     * Personal
-    * Home_Mortgage_Loans
-    * Current Mortgage and Refinance Rates
-****** Current Mortgage and Refinance Rates ******
-                    Print
- Customized purchase rates
-A mortgage prequalification checks your credit history for a confident rate
-estimate, and doesn’t affect your credit.
-Get_prequalified
- Customized refinance rates
-Estimate your monthly payments, annual percentage rate (APR), and mortgage
-interest rate to see if refinancing could be the right move.
-Calculate_rates
-    * Purchase_Rates
-    * Refinance_Rates
-tab-purchaserates">
-                 Purchase Rates table
-Product                  Interest_Rate APR
-Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      5.875%        6.983%
-15-Year_Fixed-Rate_Jumbo 5.875%        6.076%
-30-Year_Fixed-Rate_Jumbo 6.0%          6.109%
-Conforming and Government_Loans
-7/6-Month_ARM            6.375%        7.337%
-15-Year_Fixed_Rate       4.75%         5.056%
-30-Year_Fixed-Rate_VA    5.25%         5.571%
-30-Year_Fixed_Rate       5.625%        5.811%
-Rates, terms, and fees as of 9/27/2024 10:15 AM Eastern Daylight Time and
-subject to change without notice.
-tab-refinancerates">
-                 Refinance Rates table
-Product                  Interest_Rate APR
-Jumbo_Loans Amounts that exceed conforming loan limits
-7/6-Month_ARM_Jumbo      6.0%          7.061%
-15-Year_Fixed-Rate_Jumbo 6.0%          6.181%
-30-Year_Fixed-Rate_Jumbo 6.125%        6.234%
-Conforming and Government_Loans
-15-Year_Fixed_Rate       4.875%        5.18%
-30-Year_Fixed_Rate       5.875%        6.074%
-Rates, terms, and fees as of 9/27/2024 10:15 AM Eastern Daylight Time and
-subject to change without notice.
+    *  Home_Mortgage_Loans
+    * Current mortgage and refinance rates
+
+****** Current mortgage and refinance rates ******
+&zwj;
+***** Mortgage interest rates today *****
+ 
+***** Get a customized rate and payment *****
+See how much you could qualify to borrow and what your estimated rate and
+payment would be. It takes just a few minutes and won’t affect your credit
+score.
+Estimate_your_rate
+&zwj;
+***** Common questions about mortgage rates *****
+   How are interest rates determined? How_are_interest_rates_determined?
 
 
-Select a product to view important disclosures, payments, assumptions, and APR
-information as some rates may include up to 1.0 discount point as an upfront
-cost to borrowers. Rates for refinancing assume no cash out. Please note we
-offer additional home loan options not displayed here.
-*****
-Talk to a mortgage consultant *****
-Call 1-866-290-0462 to learn more about your options, or find_a_mortgage
-consultant in your area.
-Get_a_call_back
-*****
-Apply for a mortgage *****
-If you have everything you need to apply for a mortgage, you can get started
-now with our online application.
-Apply_online
-***** Still have questions? *****
-**** Quick Help ****
-    * Finish_a_saved_application
-    * Check_application_status
-    * Sign_on_to_manage_your_account
-    * Home_mortgage_faqs
-    * Customer_help_and_payment_options
-**** Call Us ****
-*** New Loans ***
+Interest rates are influenced by the financial markets and can change daily –
+or multiple times within the same day. The changes are based on many different
+economic indicators in the financial markets. 
+    What’s an interest rate lock? What’s_an_interest_rate_lock?
+
+
+Mortgage interest rates may change many times every day. Choosing when to lock
+your interest rate is an important part of the home financing process. Learn
+more_about_interest_rate_lock_options.
+    Can I get a lower interest rate? Can_I_get_a_lower_interest_rate?
+
+
+You may be able to lower your interest rate by making changes that lower your
+risk factors described above. Here are some of the things you may want to
+consider:
+    * Putting more money down and lowering the LTV ratio.
+    * Clearing any errors on your credit report.
+    * Adding a co-signer with additional income and/or a higher credit score to
+      support the loan. (For this option, you may need to start a new loan
+      application.)
+    * Changing the number of years of your loan term.
+    * You also may be able to lower your rate by paying discount points.
+    What things may affect my interest rate? What_things_may_affect_my_interest
+rate?
+
+
+We consider a variety of factors when we determine the interest rate and costs
+of your loan. The process of reviewing these factors to determine your rate is
+called "risk-based pricing."
+The typical factors we look at include:
+    * Credit profile: We'll obtain a credit report that shows your current
+      debts and payment history. The report will also include a credit score
+      based on your overall credit history.
+    * Property type: Investment properties, condominiums, and multifamily homes
+      are generally considered to be higher risks than single family detached
+      homes.
+    * Loan-to-value (LTV) ratio: The amount you want to borrow compared to the
+      appraised value of the property. Generally, the lower your LTV ratio, the
+      lower your interest rate and costs.
+    * Debt-to-income (DTI) ratio: The amount of your mortgage payments and
+      total debt payments compared to your income. A higher DTI ratio may mean
+      higher interest rates and costs.
+    * Type of loan: Purchase versus refinance, an adjustable rate versus fixed
+      rate, or cash-out refinance versus rate-and-term refinance, may affect
+      overall risk.
+Some other things that may affect your interest rate:
+    * Closing cost credits: You may be able to finance a portion of your
+      closing costs as part of your loan. This may result in a higher interest
+      rate.
+    * Discount points: A discount point is paid to obtain a lower interest rate
+      that may reduce your monthly payment amount.
+    * Asset-Based Relationship Discount: For jumbo loans, you may qualify for a
+      rate discount based on the balance of your eligible assets at Wells Fargo
+      Bank, N.A. and/or Wells Fargo Advisors,. Refer to your Customer Rate
+      Discount Disclosure in your initial disclosure package for additional
+      details on the Asset-Based Relationship Discount.
+    * Additional risk factors: We may also consider other risk factors when
+      determining your interest rate and costs, including previous
+      bankruptcies, foreclosures, or unpaid judgments.
+*****_Estimate_your_home’s_value_*****
+Current_Wells_Fargo_customers_can_track_neighborhood_sales_data,_see_how
+renovating_could_increase_your_home_value,_and_much_more.
+Claim_your_home_to_see_its_value
+*****_Relationship_mortgage_discounts_*****
+See_if_you_can_lower_your_rate_even_further_based_on_your_eligible_assets_with
+Wells_Fargo.
+Learn_more
+*****_Home_affordability_calculator_*****
+Get_an_estimated_home_price_and_monthly_mortgage_payment.
+Calculate_your_home_price_range
+*****_Learning_center_*****
+Get_informed_about_the_mortgage_and_homebuying_process,_from_starting_your_home
+search_to_planning_your_next_move.
+Explore_articles
+&zwj;
+***** Talk to a mortgage consultant *****
+**** Call us ****
 1-866-290-0462
 Mon – Fri: 7 am – 8 pm
-Sat: 8 am – 6 pm  
-Central Time
-*** Existing Loans ***
-1-800-357-6675 
-Mon – Fri: 7 am – 10 pm 
-Sat: 8 am – 2 pm 
+Sat: 8 am – 6 pm
 Central Time
 Marque 9 para recibir atención en español.
-Equal Housing Lender
+**** Let us contact you ****
+Enter your contact information to have a mortgage consultant call you.
+Get_a_call_back
+**** Find a consultant ****
+Use our locator to search for mortgage consultants in your area.
+Search_locations
+ How was your experience? Give_us_feedback.
+Not all assets qualify. For more information and to verify jumbo loan amounts
+for your county, contact your private mortgage banker.
+Investment products and services are offered through Wells Fargo Advisors.
+Wells Fargo Advisors is a trade name used by Wells Fargo Clearing Services, LLC
+(WFCS) and Wells Fargo Advisors Financial Network, LLC, Members SIPC, separate
+registered broker-dealers and non-bank affiliates of Wells Fargo & Company.
+&zwj; Equal Housing Lender
 Wells Fargo Home Mortgage is a division of Wells Fargo Bank, N.A.
-QSR-04032025-5995604.1.1
-LRC-1023
-***** Annual Percentage Rate (APR) *****
-The cost to borrow money expressed as a yearly percentage. For mortgage loans,
-excluding home equity lines of credit, it includes the interest rate plus other
-charges or fees. For home equity lines, the APR is just the interest rate.
-***** Interest Rate *****
-The cost a customer pays to a lender for borrowing funds over a period of time
-expressed as a percentage rate of the loan amount.
-***** Conventional Conforming Mortgage *****
-Conventional home mortgages eligible for sale and delivery to either the
-Federal National Mortgage Association (FNMA) or the Federal Home Loan Mortgage
-Corporation (FHLMC).
-***** Government *****
-A loan that is either backed by the Federal Housing Administration (FHA) or a
-VA loan for eligible service members and veterans.
-***** Larger Loan Amounts in Eligible Areas *****
-In federally designated metropolitan areas, conventional and government loan
-limits have been increased to assist homebuyers.
-***** Jumbo *****
-A loan that exceeds Fannie Mae's and Freddie Mac's loan limits. Also called a
-non-conforming loan.
-
-    * Privacy,_Cookies,_Security_&_Legal
-    * Notice_of_Data_Collection
-    * General_Terms_of_Use
-    * Ad_Choices
-    * Report_Fraud
+QSR-01102026-6778651.1.1
+LRC-0724
+You are leaving the Wells Fargo website.
+You are leaving wellsfargo.com and entering a website that Wells Fargo does not
+control.
+Wells Fargo has provided this link for your convenience, but does not endorse
+and is not responsible for the products, services, content, links, privacy
+policy, or security policy of this website.
+Continue Cancel
+You are leaving the Wells Fargo website.
+You are leaving wellsfargo.com website and entering ComeHome, provided by
+HouseCanary Inc. Although Wells Fargo has a relationship with this website,
+Wells Fargo does not provide the products and services on the website. Please
+review the applicable privacy and security policies and terms and conditions
+for the website you are visiting.
+Any tools at the following website are provided for educational and
+illustrative purposes only. Wells Fargo does not guarantee the accuracy of the
+calculations and their applicability to your circumstances.
+Continue Cancel
+    *  Privacy,_Cookies,_Security_&_Legal
+    *  Notice_of_Data_Collection
+    *  General_Terms_of_Use
+    *  Ad_Choices
+    *  Report_Fraud
     * Sitemap
-    * About_Wells_Fargo
-    * Careers
-    * Diversity_and_Accessibility
     * Home
+    *  About_Wells_Fargo
+    *  Careers
+    *  Diversity_and_Accessibility
+&zwj;
 © 1999 - 2024 Wells Fargo. NMLSR ID 399801
+***** Footnote *****
