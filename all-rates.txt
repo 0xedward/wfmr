@@ -131,11 +131,12 @@ Some other things that may affect your interest rate:
       rate.
     * Discount points: A discount point is paid to obtain a lower interest rate
       that may reduce your monthly payment amount.
-    * Asset-Based Relationship Discount: For jumbo loans, you may qualify for a
-      rate discount based on the balance of your eligible assets at Wells Fargo
-      Bank, N.A. and/or Wells Fargo Advisors,. Refer to your Customer Rate
-      Discount Disclosure in your initial disclosure package for additional
-      details on the Asset-Based Relationship Discount.
+    * Asset-Based Relationship Discount: You may qualify for a rate discount
+      based on the balance of your eligible assets at Wells Fargo Bank, N.A.
+      and/or Wells Fargo Advisors. Not all assets qualify. Discount not
+      eligible with FHA and VA loans. Refer to your Customer Rate Discount
+      Disclosure in your initial disclosure package for additional details on
+      the Asset-Based Relationship Discount.
     * Additional risk factors: We may also consider other risk factors when
       determining your interest rate and costs, including previous
       bankruptcies, foreclosures, or unpaid judgments.
@@ -173,12 +174,11 @@ Get_a_call_back
 Use our locator to search for mortgage consultants in your area.
 Search_locations
  How was your experience? Give_us_feedback.
-Not all assets qualify. For more information and to verify jumbo loan amounts
-for your county, contact your private mortgage banker.
 Investment products and services are offered through Wells Fargo Advisors.
 Wells Fargo Advisors is a trade name used by Wells Fargo Clearing Services, LLC
 (WFCS) and Wells Fargo Advisors Financial Network, LLC, Members SIPC, separate
 registered broker-dealers and non-bank affiliates of Wells Fargo & Company.
+Powered by ComeHome.
 &zwj; Equal Housing Lender
 Wells Fargo Home Mortgage is a division of Wells Fargo Bank, N.A.
 QSR-01102026-6778651.1.1
